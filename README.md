@@ -10,5 +10,5 @@
 - http://*ip*/methods/?skill=stop_conveyor
 
 ## Substituir *ip* por:
-- ESP: 192.168.2.69
-- MDUINO : 192.168.2.20:8888
+- ESP: 192.168.1.100
+- MDUINO : 192.168.1.105:8888
